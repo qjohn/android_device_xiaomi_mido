@@ -3,5 +3,9 @@
     "repository": "AICP/device_xiaomi_msm8953-common",
     "target_path": "device/xiaomi/msm8953-common",
     "branch": "o8.1"
+  },
+  {
+    "repository": "android_kernel_xiaomi_mido",
+    "target_path": "kernel/xiaomi/mido"
   }
 ]
